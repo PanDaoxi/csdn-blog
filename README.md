@@ -16,8 +16,8 @@
 
 我们的网址：
 
-- 【原】`Daoxi365` 网站（[`https://daoxi365.netlify.app/`](https://daoxi365.netlify.app/)）**（已弃用，链接已失效，做跳转处理）（跳转的内容也已失效）**
-- 【原】`Tech Blog` 技术博客（[`https://pandaoxi.netlify.app/`](https://pandaoxi.netlify.app/)）**（已弃用，链接已失效，做跳转处理）（跳转的内容也已失效）**
+- 【原】`Daoxi365` 网站（[`https://daoxi365.netlify.app/`](https://daoxi365.netlify.app/)）**（已弃用，链接已失效）（跳转已失效）**
+- 【原】`Tech Blog` 技术博客（[`https://pandaoxi.netlify.app/`](https://pandaoxi.netlify.app/)）**（已弃用，链接已失效）（跳转已失效）**
 - 【原】`Daoxi365` 网站（[`https://pandaoxi.gitee.io/`](https://pandaoxi.gitee.io/)）**（已弃用，链接已失效）**
 - 【原】`Tech Blog` 技术博客（[`https://pandaoxi.gitee.io/tech-blog/`](https://pandaoxi.gitee.io/tech-blog)）**（已弃用，链接已失效）**
 - `Software Blog` 软件博客（[`https://pandaoxi.gitee.io/software/`](https://pandaoxi.gitee.io/software)）**（已弃用，链接已失效）**

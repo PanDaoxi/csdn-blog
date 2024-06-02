@@ -26,7 +26,7 @@
 - `About` 个人简历（[`https://pandaoxi.github.io/`](https://pandaoxi.github.io/)）
 - `CSDN-BLOG` 原 CSDN 文章 （[`https://pandaoxi.github.io/csdn-blog/`](https://pandaoxi.github.io/csdn-blog/)）
 
-以前的旧网址 `daoxi365.netlify.app` 将会做跳转处理！
+以前的旧网址 `daoxi365.netlify.app` 将会做跳转处理！\
 如果您有任何关于网站的问题，欢迎联系 `2060642520@qq.com` 或 `pandaoxi365@gmail.com`。
 
 ```
